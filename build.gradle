@@ -1,0 +1,13 @@
+plugins {
+    id 'application'
+    id 'idea'
+    id 'java-library'
+}
+
+dependencies {
+
+}
+
+repositories {
+    jcenter()
+}
